@@ -1,16 +1,16 @@
-## Hi there 👋
+# About me
+I’m a **Registered Nurse** exploring how digital systems can improve safety and patient journeys.
 
-<!--
-**georgejenescu/georgejenescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mission
+Build practical digital skills that reduce risk and friction in care.
 
-Here are some ideas to get you started:
+## Focus areas
+- **AI in healthcare** for safe, real-world workflows  
+- **Digital care systems** and interoperability  
+- **Data for improvement** with dashboards, basic SQL and simple automation  
+- **Health data standards** including SNOMED CT, LOINC and ICD-10  
+- **Virtual care** telehealth and remote monitoring  
+- **Python basics** for small analysis and prototypes  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What you’ll find here
+A personal learning archive with notes, small projects and experiments.
